@@ -1,3 +1,2 @@
 This is vue file
 This is second line
-This is Third line
